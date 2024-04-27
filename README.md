@@ -4,13 +4,13 @@ Hi, I'm Scott Penco👋
 
 About Me
 
-I'm a passionate Data Scientist with a love for all things data! 📊 I enjoy exploring datasets, uncovering hidden patterns, and turning raw information into actionable insights. When I'm not crunching numbers, you can find me sipping coffee ☕️ or tinkering with Python code 🐍.
+Highly curious and motivated about the field of Data Science, machine learning and AI. Varied history building and using data science tools, statistical modelling and data analysis in Python, and SQL. Foundations in statistics and data analysis to help with analytical skills and model optimization. Interested in problem solving and expanding domain knowledge by turning raw information into actionable insights. Continually seeking learning opportunities from various certifications and projects in AI and Machine Learning. Open to collaborating with others and learning from professionals.
 
 My Journey
-- 🎓 Graduated with a degree in Computer Science
-- 🌱 Constantly learning and improving my skills
-- 💡 Exploring machine learning algorithms and deep learning models
-- 📈 Analyzing data to solve real-world problems
+- 🎓 Graduated with a degree and schoolwork in STEM. Biology/Bioinformatics and NeuroPsychology.
+- 🌱 Constantly learning and improving my skills with certifications.
+
+
 Projects in my portfolio
 
 - Amazon Product Recommendations
