@@ -1,5 +1,5 @@
 # Portfolio
-
+![alt text](https://api.careers.fresenius.com/images/4a9e0fed-f1d2-49ce-92d1-8af5ba2df041)
 Hi, I'm Scott Penco👋
 
 About Me
@@ -21,5 +21,6 @@ Projects in my portfolio
 Let's Connect!
 - 📧 Email: scott.penco@mail.utoronto.ca
 - 🌐 LinkedIn: www.linkedin.com/in/scott-penco-076256140
-Feel free to add more sections, showcase your projects, and sprinkle in more emojis! Good luck with your Data Science journey! 🚀🔍🤖
+
+Good luck with your Data Science journey! 🚀🔍🤖
 
