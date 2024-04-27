@@ -13,7 +13,7 @@ My Journey
 
 Projects in my portfolio
 
--  [a link]([Amazon Product Recommendation](https://github.com/scottpenco/Portfolio/tree/main/Amazon%20Product%20Recommendation))
+-  [Amazon Product Recommendation](https://github.com/scottpenco/Portfolio/tree/main/Amazon%20Product%20Recommendation)
     - Amazon uses different recommendation models to provide personalized suggestions to different users.
     - Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
     - In this case study, we built reccomenxdation systems based on: Rank-based using averages, User-user-similarity based collaborative filtering, item-item silimilarity based collaboritve filtering, Matrix factorization collaborative filtering
