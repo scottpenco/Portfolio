@@ -7,11 +7,11 @@ About Me
 Highly curious and motivated about the field of Data Science, machine learning and AI. Varied history building and using data science tools, statistical modelling and data analysis in Python, and SQL. Foundations in statistics and data analysis to help with analytical skills and model optimization. Interested in problem solving and expanding domain knowledge by turning raw information into actionable insights. Continually seeking learning opportunities from various certifications and projects in AI and Machine Learning. Open to collaborating with others and learning from professionals.
 
 My Journey
-- 🎓 Graduated with a degree and schoolwork in STEM. Biology/Bioinformatics and NeuroPsychology.
+- 🎓 Graduated with a degree and schoolwork in STEM. Biology/Bioinformatics
 - 🌱 Constantly learning and improving my skills with certifications.
 
 
-Projects in my portfolio
+Projects in my Portfolio:
 
 -  [Amazon Product Recommendation](https://github.com/scottpenco/Portfolio/tree/main/Amazon%20Product%20Recommendation)
     - Amazon uses different recommendation models to provide personalized suggestions to different users.
