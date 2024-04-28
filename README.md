@@ -17,6 +17,8 @@ Projects in my Portfolio:
     - Amazon uses different recommendation models to provide personalized suggestions to different users.
     - Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
     - In this case study, we built reccomenxdation systems based on: Rank-based using averages, User-user-similarity based collaborative filtering, item-item silimilarity based collaboritve filtering, Matrix factorization collaborative filtering
+- [Boston House Price Prediction Linear Regression](https://github.com/scottpenco/Portfolio/tree/main/Boston%20House%20Price%20Prediction%20Linear%20Regression%20Scott%20Penco)
+- 
 
 Let's Connect!
 - 📧 Email: scott.penco@mail.utoronto.ca
