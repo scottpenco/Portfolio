@@ -2,7 +2,7 @@
 ![alt text](https://api.careers.fresenius.com/images/4a9e0fed-f1d2-49ce-92d1-8af5ba2df041)
 Hi, I'm Scott Penco👋
 
-About Me
+About Me:
 
 Highly curious and motivated about the field of Data Science, machine learning and AI. Varied history building and using data science tools, statistical modelling and data analysis in Python, and SQL. Foundations in statistics and data analysis to help with analytical skills and model optimization. Interested in problem solving and expanding domain knowledge by turning raw information into actionable insights. Continually seeking learning opportunities from various certifications and projects in AI and Machine Learning. Open to collaborating with others and learning from professionals.
 
