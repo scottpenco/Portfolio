@@ -28,7 +28,7 @@ Python 🐍
 - [Forecasting Stock Prices with Time Series](https://github.com/scottpenco/Portfolio/tree/main/Time%20Series%20-%20Forecasting%20Stock%20Prices)
 
 SQL 🗄️
--  [Golden Age of Video Games]((https://github.com/scottpenco/Portfolio/tree/main/Golden%20Age%20of%20Video%20Games))
+-  [Golden Age of Video Games](https://github.com/scottpenco/Portfolio/tree/main/Golden%20Age%20of%20Video%20Games)
     - Used SQL to analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. Found the golden age of video games by identifying release years that users and critics liked best.
 
 Let's Connect!
