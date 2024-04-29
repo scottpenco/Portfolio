@@ -13,6 +13,7 @@ My Journey
 
 Projects in my Portfolio:
 
+Python 🐍
 -  [Amazon Product Recommendation](https://github.com/scottpenco/Portfolio/tree/main/Amazon%20Product%20Recommendation)
     - Amazon uses different recommendation models to provide personalized suggestions to different users.
     - Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
@@ -25,6 +26,9 @@ Projects in my Portfolio:
 - [Hotel Booking Cancellation Prediction](https://github.com/scottpenco/Portfolio/tree/main/Hotel%20Booking%20Cancellation%20Prediction%20Classification%20-%20%20Scott%20Penco)
 - [Movie Reccomendation](https://github.com/scottpenco/Portfolio/tree/main/Movie%20Reccomendation)
 - [Forecasting Stock Prices with Time Series](https://github.com/scottpenco/Portfolio/tree/main/Time%20Series%20-%20Forecasting%20Stock%20Prices)
+
+SQL 🗄️
+
 
 Let's Connect!
 - 📧 Email: scott.penco@mail.utoronto.ca
