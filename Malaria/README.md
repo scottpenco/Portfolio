@@ -1,4 +1,5 @@
 # Malaria CNN Capstone 
+![image](https://www.marylandmatters.org/wp-content/uploads/2023/10/AdobeStock_111872748-scaled-1.jpeg)
 
 Malaria is a mosquito-borne infectious disease caused by parasites. According to the World Health Organization in 2020, half the world’s population is at risk for malaria. Due to the prevalence and severity of the disease, malaria surveillance is important in disease control. The ability to detect the virus among populations helps world organizations understand the impact the disease can have on patterns and most affected populations.
 Infected red blood cells from malaria are characterized as losing the disc-liked shaped of regular red blood cells. This morphological trait is diagnostically significant in determining if someone has contracted the disease. Typically this is done by the human-eye. However this project aims to create an artificial intelligence model, through CNNs, that can predict the status of a patients red blood cells. This automated system can provide easier earlier detection and classification of infected individuals, and alleviate any burden from human error or labour associated with human detection.
