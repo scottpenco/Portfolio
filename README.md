@@ -25,7 +25,12 @@ Python 🐍
     - A CNN was created to determine the digits of housing numbers taken from street view. This model has potential to help the accuracy of map data, such as google maps to provide accurate addresses.
     - 2 CNN models were created, with the second showing improvments in validation accuracy due to drop-outlayers. 
 - [Credit Card Customer Classification](https://github.com/scottpenco/Portfolio/tree/main/Credit%20Card%20Customer%20Unsupervised%20Learning%20Classification)
+    - Analysis on credit card customers was performed to improve campaigns for specific types of customers.
+    - Using unsupervised learning 3 groups of customers were identified using K-Means and Gaussian Mixed Models. These groups can be used to target specific types of customers. 
 - [Predicting Potential Customers](https://github.com/scottpenco/Portfolio/tree/main/Decision%20Trees%20and%20Random%20Forest%20-%20Predicting%20Potential%20Customers)
+    - Analysis was performed on customer data of Online Education service to determine what customers are good leads, and what factors lead to these conversions.
+    - A model was built using Decisoin Trees and Random Forest to determine which customers are likely to convert to paid customers.
+    - Marketing insights were extrapolated from the resulting trees, suggesting that marketing can target these profiles of customers to improve employment rates.
 - [Auto MPG Dimensionality Reduction](https://github.com/scottpenco/Portfolio/tree/main/Dimensionality%20Reduction)
 - [Hotel Booking Cancellation Prediction](https://github.com/scottpenco/Portfolio/tree/main/Hotel%20Booking%20Cancellation%20Prediction%20Classification%20-%20%20Scott%20Penco)
 - [Movie Reccomendation](https://github.com/scottpenco/Portfolio/tree/main/Movie%20Reccomendation)
