@@ -22,6 +22,8 @@ Python 🐍
     - Housing Price can vary depending on a number of features. A model was built to predict the housing price of Boston Housing.
     - Model highlighted important features when determining the house price. 
 - [Street View Housing Number Digit Recognition](https://github.com/scottpenco/Portfolio/tree/main/Convolutional%20Neural%20Networks%20Street%20View%20Housing%20Number%20Digit%20Recognition)
+    - A CNN was created to determine the digits of housing numbers taken from street view. This model has potential to help the accuracy of map data, such as google maps to provide accurate addresses.
+    - 2 CNN models were created, with the second showing improvments in validation accuracy due to drop-outlayers. 
 - [Credit Card Customer Classification](https://github.com/scottpenco/Portfolio/tree/main/Credit%20Card%20Customer%20Unsupervised%20Learning%20Classification)
 - [Predicting Potential Customers](https://github.com/scottpenco/Portfolio/tree/main/Decision%20Trees%20and%20Random%20Forest%20-%20Predicting%20Potential%20Customers)
 - [Auto MPG Dimensionality Reduction](https://github.com/scottpenco/Portfolio/tree/main/Dimensionality%20Reduction)
