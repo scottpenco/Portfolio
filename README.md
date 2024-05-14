@@ -29,8 +29,8 @@ Python 🐍
     - Using unsupervised learning 3 groups of customers were identified using K-Means and Gaussian Mixed Models. These groups can be used to target specific types of customers. 
 - [Predicting Potential Customers](https://github.com/scottpenco/Portfolio/tree/main/Decision%20Trees%20and%20Random%20Forest%20-%20Predicting%20Potential%20Customers)
     - Analysis was performed on customer data of Online Education service to determine what customers are good leads, and what factors lead to these conversions.
-    - A model was built using Decisio+n Trees and Random Forest to determine which customers are likely to convert to paid customers.
-    - Marketing insights were extrapolated from the resulting trees, suggesting that marketing can target these profiles of customers to improve employment rates.
+    - A model was built using Decision Trees and Random Forest to determine which customers are likely to convert to paid customers.
+    - Marketing insights were extrapolated from the resulting trees, suggesting that marketing can target these profiles of customers to improve recruitment rates.
 - [Auto MPG Dimensionality Reduction](https://github.com/scottpenco/Portfolio/tree/main/Dimensionality%20Reduction)
     - Dimensionality Reduction was performed on the Auto MPG data set to determine similarities and insights in the data.
     - PCA and tSNE were used, the results showed evidence for 3 groups of engines.
