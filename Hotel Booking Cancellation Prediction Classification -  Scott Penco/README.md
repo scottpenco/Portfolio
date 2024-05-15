@@ -1,5 +1,5 @@
 # Hotel Booking Cancellation Prediction
-
+![hotel](https://www.cvent.com/sites/default/files/image/2021-08/exterior%20view%20of%20the%20sign%20at%20the%20front%20of%20a%20hotel.jpg)
 A view of hotel reservations dataset which includes aspects related to bookings, guest profiles, and stay details. Compelting analysis helped gain insights into booking patterns, customer behavior, and factors influencing cancellations. 
 This involved two key machine learning models: logistic regression and k-nearest neighbors (KNN). These models allow us to predict whether a guest is likely to cancel their reservation, enabling hotels to optimize resource allocation and enhance revenue management strategies. 
 
