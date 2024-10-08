@@ -53,9 +53,9 @@ SQL 🗄️
 -  [Golden Age of Video Games](https://github.com/scottpenco/Portfolio/tree/main/Golden%20Age%20of%20Video%20Games)
     - Used SQL to analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. Found the golden age of video games by identifying release years that users and critics liked best.
 
-Let's Connect!
-- 📧 Email: scott.penco@mail.utoronto.ca
+Let's stay in touch!
+- 📧 Email: scott.penco@alumni.utoronto.ca
 - 🌐 LinkedIn: www.linkedin.com/in/scott-penco-076256140
 
-Good luck with your Data Science journey! 🚀🔍🤖
+Looking forward to connecting with you! 🚀🔍🤖
 
