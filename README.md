@@ -58,5 +58,5 @@ Let's stay in touch!
 - 📧 Email: scott.penco@alumni.utoronto.ca
 - 🌐 LinkedIn: www.linkedin.com/in/scott-penco-076256140
 
-Looking forward to connecting with you! 🚀🔍🤖
+Looking forward to connecting with you! 🐝
 
