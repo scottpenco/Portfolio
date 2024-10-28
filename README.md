@@ -44,7 +44,7 @@ Python 🐍
 - [Movie Reccomendation](https://github.com/scottpenco/Portfolio/tree/main/Movie%20Reccomendation)
     - Netflix houses many movie, and user data. This can be used to build a recommendation system to recommend users to relevant movies.
     - 3 recommendation systems were built: Knowledge/Rank Based Recommendation, Similarity-Based Collaborative Filtering, and Matrix Factorized Based Collaborative Filtering.
-- [Forecasting Stock Prices with Time Series](https://github.com/scottpenco/Portfolio/tree/main/Time%20Series%20-%20Forecasting%20Stock%20Prices)
+- [Forecasting Stock Prices with Time Series](https://github.com/scottpenco/Portfolio/tree/main/Forecasting%20Stock%20Prices%20with%20Time%20Series)
     - A time-series model was built to determine the projection of stock prices.
     - The data was analyzed, and made stationary before computing different models: AR model and ARIMA.
     - ARIMA model performed the most accurate for forecasting the stock data.
