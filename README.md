@@ -8,7 +8,8 @@ Highly curious and motivated about the field of Data Science, machine learning a
 
 My Journey
 - 🎓 Baccalaurate Double Major Degree in STEM field: Biology/Bioinformatics.
-- 🌱 Constantly learning and improving my skills with certifications.
+- 📚 Completed Higher Education in Bioinformatics and Data Science
+- 🌱 Constantly learning and improving my skills with certifications and Projects.
 
 
 Projects in my Portfolio:
