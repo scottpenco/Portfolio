@@ -1,9 +1,7 @@
-# Movie Reccomendation
-![](https://www.invisibly.com/nitropack_static/EDGAlbMjzTDfAsQvAjZvAgEFWFaJycan/assets/images/optimized/rev-377295d/www.invisibly.com/wp-content/uploads/2021/11/Blog19-Netflix-2-768x372.png)
+# Time Series - Forecasting Stock Price
+![](https://cdn.prod.website-files.com/5ec4696a9b6d337d51632638/63894b7d224b27d769cd3fff_63066e2f6a582600c7c9923f-p-1080.webp)
 ## Project Overview:
-Online streaming platforms like Netflix have plenty of movies in their repository and if we can build a Recommendation System to recommend relevant movies to users, based on their historical interactions, this would improve customer satisfaction and hence, it will also improve the revenue of the platform. The techniques that we will learn here will not only be limited to movies, it can be any item for which you want to build a recommendation system.
-In this project we will be building various recommendation systems:
-	•	Knowledge/Rank based recommendation system
-	•	Similarity-Based Collaborative filtering
-	•	Matrix Factorization Based Collaborative Filtering
+Stocks are one of the most popular financial instruments invented for building wealth and are the centerpiece of any investment portfolio. Recent advances in trading technology have opened up stock markets in such a way that nowadays, nearly anybody can own stock.
+In the last few decades, there's been an explosive increase in the average person's interest for the stock market. This makes stock value prediction an interesting and popular problem to explore. 
 
+Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America as well as internationally. This dataset consists of monthly average stock closing prices of Amazon over a period of 12 years from 2006 to 2017. We have to build a time series model using the AR, MA, ARMA and ARIMA models in order to forecast the stock closing price of Amazon.
