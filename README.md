@@ -57,6 +57,7 @@ SQL 🗄️
 Let's stay in touch!
 - 📧 Email: scott.penco@alumni.utoronto.ca
 - 🌐 LinkedIn: www.linkedin.com/in/scott-penco-076256140
+- 🔖 [Certifications](https://github.com/scottpenco/Portfolio/tree/main/Certications)
 
 Looking forward to connecting with you! 🐝
 
